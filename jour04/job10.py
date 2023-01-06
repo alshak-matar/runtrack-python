@@ -12,4 +12,4 @@ def produit():
         produit = produit * i
     print(produit)
 
-produit()
+produit() 
